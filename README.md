@@ -8,5 +8,5 @@ Then created a Beautiful Soup object and use it to scrape the data in the HTML t
 Data Analysis and Visualization:
 By analyzing the dataset, it's determined that there are 12 months on Mars, similar to Earth. The dataset contains weather records for 1867 Martian days (sols). Also, to find the coldest and warmest months, the average minimum temperature for each Martian month is calculated and plotted as a bar chart. The coldest months are typically months 3 and 4, while the warmest months are around month 8. Atmospheric Pressure Analysis: Similarly, the average atmospheric pressure for each month is computed and visualized. The months with the highest pressure tend to be around month 9, while the lowest pressure is observed in months 5 and 6.Year Length Estimation: By plotting the minimum temperature over the terrestrial days (Earth days), a visual estimate of the Martian year length can be made. This helps estimate how many Earth days it takes for Mars to complete one orbit around the Sun.
 
-I worked on this project with the help of the Homeworks and Xpert Learning AI tool. 
+I worked on this project with the help of the Homework and Xpert Learning Assistant tool. 
 
